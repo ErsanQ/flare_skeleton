@@ -1,0 +1,21 @@
+name: flare_skeleton
+description: A beautiful shimmer skeleton loading library for Flutter with customizable shapes, colors, and animations.
+version: 1.0.0
+homepage: https://github.com/ErsanQ/flare_skeleton
+repository: https://github.com/ErsanQ/flare_skeleton
+issue_tracker: https://github.com/ErsanQ/flare_skeleton/issues
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+  flutter: '>=3.10.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
